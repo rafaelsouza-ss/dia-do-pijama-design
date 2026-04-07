@@ -12,3 +12,4 @@ Aqui você pode visualizar o fluxo completo da Landing Page, dividido pelas trê
 ### ✅ 3. Dicas para o Dia Perfeito (Checklist)
 ![Frame Principal 3 - Checklist](./img/tela_3.png)
 *Legenda: O frame com as dicas práticas e o checklist para o "dia perfeito" de trabalho confortável.*
+<img width="4400" height="900" alt="DIA_PIJAMA" src="https://github.com/user-attachments/assets/00a0b3c6-28d0-49d2-a4a3-35aaf656d7c5" />
